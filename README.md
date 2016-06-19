@@ -1,0 +1,2 @@
+# railstut
+rails tutorial
